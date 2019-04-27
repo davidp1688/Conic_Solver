@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ConicTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=c
+comment2.target=boolean\ isDegenerate(double[])
+comment3.params=coeff
+comment3.target=double\ calcDiscriminant(double[])
+comment4.params=discriminant\ coeff
+comment4.target=java.lang.String\ findConicType(double,\ double[])
+numComments=5
